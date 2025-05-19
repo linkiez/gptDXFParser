@@ -1,0 +1,27 @@
+{
+  "name": "gptdxfparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dxfParserJson.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dxfParserJson.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkiez/gptDXFParser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/linkiez/gptDXFParser/issues"
+  },
+  "homepage": "https://github.com/linkiez/gptDXFParser#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.19",
+    "typescript": "^5.8.3"
+  },
+  "packageManager": "yarn@4.9.1"
+}
